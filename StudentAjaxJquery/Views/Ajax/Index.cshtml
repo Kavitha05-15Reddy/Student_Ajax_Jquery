@@ -1,0 +1,74 @@
+﻿﻿﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<button class="btn btn-sm btn-primary m-2" id="btnAddStudent">Add Student</button>
+
+<table class="table table-bordered">
+    <thead>
+        <tr class="text-center">
+            <th>Id</th>
+            <th>Name</th>
+            <th>Email</th>
+            <th>MobileNo</th>
+            <th>City</th>
+            <th>State</th>
+            <th>Country</th>
+            <th>Operation</th>
+        </tr>
+    </thead>
+    <tbody class="text-center" id="table_data"></tbody>
+</table>
+
+<div class="modal fade modal" id="StudentModal">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h1 class="text-info modal-title" id="studentHeading">Add Student</h1>
+                <button class="close text-danger" data-dismiss="modal" id="btnClose1">&times;</button>
+            </div>
+            <div class="modal-body">
+                <form method="post">
+                    <div class="form-group" id="stuId">
+                        <label>Id</label>
+                        <input type="text" class="form-control" id="Id" disabled="disabled" />
+                    </div>
+                    <div class="form-group">
+                        <label>Name</label>
+                        <input type="text" placeholder="Enter Name" class="form-control" id="Name" autocomplete="off" />
+                    </div>
+                    <div class="form-group">
+                        <label>Email</label>
+                        <input type="text" placeholder="Enter Email" class="form-control" id="Email" autocomplete="off" />
+                    </div>
+                    <div class="form-group">
+                        <label>MobileNo</label>
+                        <input type="text" placeholder="Enter MobileNo" class="form-control" id="MobileNo" autocomplete="off" />
+                    </div>
+                    <div class="form-group">
+                        <label>City</label>
+                        <input type="text" placeholder="Enter City" class="form-control" id="City" autocomplete="off" />
+                    </div>
+                    <div class="form-group">
+                        <label>State</label>
+                        <input type="text" placeholder="Enter State" class="form-control" id="State" autocomplete="off" />
+                    </div>
+                    <div class="form-group">
+                        <label>Country</label>
+                        <input type="text" placeholder="Enter Country" class="form-control" id="Country" autocomplete="off" />
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button class="btn btn-primary" onclick="AddStudent();" id="btnSave">Save</button>
+                <button class="btn btn-warning" onclick="UpdateStudent()" id="btnUpdate" style="display:none">Update</button>
+                <button class="btn btn-danger btn-default" data-dismiss="modal" id="btnClose2">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/jquery/dist/jquery.js"></script>
+<script src="~/js/custom.js"></script>

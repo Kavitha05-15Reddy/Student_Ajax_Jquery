@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ramanjaneyareddy\\source\\repos\\StudentAjaxJquery\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21CB7C5C-C943-492F-BF63-B6AEFE6BD090}|StudentAjaxJquery\\StudentAjaxJquery.csproj|c:\\users\\ramanjaneyareddy\\source\\repos\\studentajaxjquery\\studentajaxjquery\\views\\ajax\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21CB7C5C-C943-492F-BF63-B6AEFE6BD090}|StudentAjaxJquery\\StudentAjaxJquery.csproj|solutionrelative:studentajaxjquery\\views\\ajax\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CB7C5C-C943-492F-BF63-B6AEFE6BD090}|StudentAjaxJquery\\StudentAjaxJquery.csproj|c:\\users\\ramanjaneyareddy\\source\\repos\\studentajaxjquery\\studentajaxjquery\\entity\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CB7C5C-C943-492F-BF63-B6AEFE6BD090}|StudentAjaxJquery\\StudentAjaxJquery.csproj|solutionrelative:studentajaxjquery\\entity\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CB7C5C-C943-492F-BF63-B6AEFE6BD090}|StudentAjaxJquery\\StudentAjaxJquery.csproj|c:\\users\\ramanjaneyareddy\\source\\repos\\studentajaxjquery\\studentajaxjquery\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{21CB7C5C-C943-492F-BF63-B6AEFE6BD090}|StudentAjaxJquery\\StudentAjaxJquery.csproj|solutionrelative:studentajaxjquery\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CB7C5C-C943-492F-BF63-B6AEFE6BD090}|StudentAjaxJquery\\StudentAjaxJquery.csproj|c:\\users\\ramanjaneyareddy\\source\\repos\\studentajaxjquery\\studentajaxjquery\\context\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CB7C5C-C943-492F-BF63-B6AEFE6BD090}|StudentAjaxJquery\\StudentAjaxJquery.csproj|solutionrelative:studentajaxjquery\\context\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CB7C5C-C943-492F-BF63-B6AEFE6BD090}|StudentAjaxJquery\\StudentAjaxJquery.csproj|c:\\users\\ramanjaneyareddy\\source\\repos\\studentajaxjquery\\studentajaxjquery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CB7C5C-C943-492F-BF63-B6AEFE6BD090}|StudentAjaxJquery\\StudentAjaxJquery.csproj|solutionrelative:studentajaxjquery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CB7C5C-C943-492F-BF63-B6AEFE6BD090}|StudentAjaxJquery\\StudentAjaxJquery.csproj|c:\\users\\ramanjaneyareddy\\source\\repos\\studentajaxjquery\\studentajaxjquery\\controllers\\ajaxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21CB7C5C-C943-492F-BF63-B6AEFE6BD090}|StudentAjaxJquery\\StudentAjaxJquery.csproj|solutionrelative:studentajaxjquery\\controllers\\ajaxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CB7C5C-C943-492F-BF63-B6AEFE6BD090}|StudentAjaxJquery\\StudentAjaxJquery.csproj|c:\\users\\ramanjaneyareddy\\source\\repos\\studentajaxjquery\\studentajaxjquery\\wwwroot\\js\\custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{21CB7C5C-C943-492F-BF63-B6AEFE6BD090}|StudentAjaxJquery\\StudentAjaxJquery.csproj|solutionrelative:studentajaxjquery\\wwwroot\\js\\custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "custom.js",
+              "DocumentMoniker": "C:\\Users\\Ramanjaneyareddy\\source\\repos\\StudentAjaxJquery\\StudentAjaxJquery\\wwwroot\\js\\custom.js",
+              "RelativeDocumentMoniker": "StudentAjaxJquery\\wwwroot\\js\\custom.js",
+              "ToolTip": "C:\\Users\\Ramanjaneyareddy\\source\\repos\\StudentAjaxJquery\\StudentAjaxJquery\\wwwroot\\js\\custom.js",
+              "RelativeToolTip": "StudentAjaxJquery\\wwwroot\\js\\custom.js",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAQwI4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-25T16:34:35.062Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AjaxController.cs",
+              "DocumentMoniker": "C:\\Users\\Ramanjaneyareddy\\source\\repos\\StudentAjaxJquery\\StudentAjaxJquery\\Controllers\\AjaxController.cs",
+              "RelativeDocumentMoniker": "StudentAjaxJquery\\Controllers\\AjaxController.cs",
+              "ToolTip": "C:\\Users\\Ramanjaneyareddy\\source\\repos\\StudentAjaxJquery\\StudentAjaxJquery\\Controllers\\AjaxController.cs",
+              "RelativeToolTip": "StudentAjaxJquery\\Controllers\\AjaxController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAC8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T16:40:22.125Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ramanjaneyareddy\\source\\repos\\StudentAjaxJquery\\StudentAjaxJquery\\Views\\Ajax\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentAjaxJquery\\Views\\Ajax\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ramanjaneyareddy\\source\\repos\\StudentAjaxJquery\\StudentAjaxJquery\\Views\\Ajax\\Index.cshtml",
+              "RelativeToolTip": "StudentAjaxJquery\\Views\\Ajax\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAADoAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T16:50:38.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ramanjaneyareddy\\source\\repos\\StudentAjaxJquery\\StudentAjaxJquery\\Program.cs",
+              "RelativeDocumentMoniker": "StudentAjaxJquery\\Program.cs",
+              "ToolTip": "C:\\Users\\Ramanjaneyareddy\\source\\repos\\StudentAjaxJquery\\StudentAjaxJquery\\Program.cs",
+              "RelativeToolTip": "StudentAjaxJquery\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T15:24:51.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ramanjaneyareddy\\source\\repos\\StudentAjaxJquery\\StudentAjaxJquery\\Context\\StudentContext.cs",
+              "RelativeDocumentMoniker": "StudentAjaxJquery\\Context\\StudentContext.cs",
+              "ToolTip": "C:\\Users\\Ramanjaneyareddy\\source\\repos\\StudentAjaxJquery\\StudentAjaxJquery\\Context\\StudentContext.cs",
+              "RelativeToolTip": "StudentAjaxJquery\\Context\\StudentContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T15:14:49.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ramanjaneyareddy\\source\\repos\\StudentAjaxJquery\\StudentAjaxJquery\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentAjaxJquery\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ramanjaneyareddy\\source\\repos\\StudentAjaxJquery\\StudentAjaxJquery\\appsettings.json",
+              "RelativeToolTip": "StudentAjaxJquery\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-25T15:30:38.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Ramanjaneyareddy\\source\\repos\\StudentAjaxJquery\\StudentAjaxJquery\\Entity\\Student.cs",
+              "RelativeDocumentMoniker": "StudentAjaxJquery\\Entity\\Student.cs",
+              "ToolTip": "C:\\Users\\Ramanjaneyareddy\\source\\repos\\StudentAjaxJquery\\StudentAjaxJquery\\Entity\\Student.cs",
+              "RelativeToolTip": "StudentAjaxJquery\\Entity\\Student.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T15:13:23.187Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
